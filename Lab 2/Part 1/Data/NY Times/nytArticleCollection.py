@@ -14,8 +14,8 @@ from nytimesarticle import articleAPI
 from bs4 import BeautifulSoup
 import requests
 session=requests.Session()
-#api = articleAPI('6omL4JqC1GAjTx3v0ZuoRFSgPA38iHA0')
-api = articleAPI('cAlsZVZOZ1rE10rSKP0ZzFi9QjLiyJmt')
+#api = articleAPI('##############################')
+api = articleAPI('################################')
 
 
 def getSearch(query):
