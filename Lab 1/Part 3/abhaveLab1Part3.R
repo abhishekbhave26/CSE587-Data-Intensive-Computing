@@ -135,7 +135,7 @@ plot_usmap(data = newdata, values = "data1", lines = "red") +
 
 ##POINTS CODE
 
-#register_google(key ='AIzaSyCA4hHccC5BtS0lRWMO7fX-hjz6_7g5pUU')
+#register_google(key ='######################')
 #geo <- geocode(as.character(loc))
 #visit.x <- geo$lon
 #visit.y <- geo$lat
