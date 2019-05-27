@@ -14,10 +14,6 @@ import pandas as pd
 import datetime
 x=datetime.datetime.now()
     
-consumer_key = 'b5QVMFJRJFlwmbjANaF51xYeH'
-consumer_secret = 'T7pY4rdKUdbZ6ZdNUVxSSsKSrqzlLIJkPqlkiREOJP2c7R2NRp'
-access_key = '951883783-RxEAbrcbRTAR5mlz0L4PrFqSwSkTVCPBB3v5menx'
-access_secret = 'Z9iOTlBr3Itdj5nB3MebbkyXZGG1cV40xVOhYT0djdkle'
 
 #https://stackoverflow.com/questions/38872195/tweepy-exclude-retweets
 
